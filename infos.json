@@ -1,0 +1,88 @@
+{
+  "videos": [{
+    "title": "L'Entourloop • DJ Set @ Le Mellotron",
+    "youtube": "Ijr5tcSQHuE",
+    "start": "2020-04-11T23:00:00+02:00",
+    "duration": 3343
+  }, {
+    "title": "Fatboy Slim - Live at Sidney Myer Music Bowl, Melbourne (Jan 2020) #RaveAtHome",
+    "youtube": "oEutbPu2YwI",
+    "start": "2020-04-12T00:00:00+02:00",
+    "duration": 5297
+  }, {
+    "title": "The Black Madonna • DJ Set @ Creamfields 2019",
+    "youtube": "LkRr3LuuCJM",
+    "start": "2020-04-12T01:30:00+02:00",
+    "duration": 5372
+  }, {
+    "title": "Solomun @ Chambord x Cercle",
+    "youtube": "YgBwTcpskgU",
+    "start": "2020-04-12T03:00:00+02:00",
+    "duration": 7253
+  }, {
+    "title": "Bob Sinclar live from Studio Ibiza",
+    "youtube": "k1d1twnD7Tk",
+    "start": "2020-04-13T20:00:00+02:00",
+    "duration": 3765
+  }, {
+    "title": "Bon Entendeur @ Parc de Saint Cloud",
+    "description": "Vermut time with some smiling and good vibes",
+    "youtube": "n78HmafrPGA",
+    "start": "2020-04-15T18:00:00+02:00",
+    "duration": 4013
+  }, {
+    "title": "Joan & Julia • DJ Set @ Home",
+    "description": "",
+    "hosted": {
+      "type": "audio",
+      "url": "https://media.mathieu-leplatre.info/remote-fest/dj-joan-julia.mp3",
+      "format": "audio/mp3",
+      "thumbnail": "https://media.mathieu-leplatre.info/remote-fest/dj-joan-julia.jpg"
+    },
+    "start": "2020-04-17T18:15:00+02:00",
+    "duration": 3600
+  }, {
+    "title": "The Martinez Brothers @ CÉ LA VI Marina Bay Sands in Singapore for Cercle",
+    "description": "Some mashups and house gigs while we gather",
+    "youtube": "29LwM9Xa6l8",
+    "start": "2020-04-18T21:05:00+02:00",
+    "duration": 6180
+  }, {
+    "title": "Honey Dijon • DJ Set @ Boiler Room x Sugar Mountain 2018",
+    "description": "Let's dance! This is it! ",
+    "youtube": "m_qewI-1cEs",
+    "start": "2020-04-18T23:00:00+02:00",
+    "duration": 3531
+  }, {
+    "title": "Adriatique Live @ EXIT 2019",
+    "description": "Adriatique were supposed to play at Apolo this week-end! Let's have revenge!",
+    "youtube": "RRUPjrbUEHU",
+    "start": "2020-04-19T00:00:00+02:00",
+    "duration": 5400
+  }, {
+    "title": "Boris Brejcha @ Grand Palais in Paris, France for Cercle",
+    "description": "<error msg=\"impossible to describe\"/>",
+    "youtube": "vqz8c4ZP3Wg",
+    "start": "2020-04-19T01:30:00+02:00",
+    "duration": 8027
+  }, {
+    "title": "Etienne de Crécy Spring Mix 2017 @ Wanderlust in Paris, France for Cercle",
+    "description": "After!",
+    "youtube": "RAQzoBFTidA",
+    "start": "2020-04-19T03:45:00+02:00",
+    "duration": 4860
+  }, {
+    "title": "Daft Punk - Alive 2007",
+    "description": "If you don't really get into the repetive childish music you've heard on radio before, then this concert is really an opportunity to get to know them and realize why they are the fucking best 🥰",
+    "youtube": "YQibjGnn6TE",
+    "start": "2020-04-22T22:00:00+02:00",
+    "duration": 5046
+  }, {
+    "title": "Cassius @ Château de Champs sur Marne in France for Cercle",
+    "description": "Good old French touch vibes",
+    "youtube": "kv92f5__3UQ",
+    "start": "2020-04-26T21:00:00+02:00",
+    "duration": 4780
+  }],
+  "videoconf": "https://mozilla.zoom.us/j/98526542724"
+}

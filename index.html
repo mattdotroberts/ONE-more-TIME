@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Remote Fest 🤟😎</title>
+  <script type="text/javascript" src="vendor/moment-with-locales.min.js"></script>
+  <script type="text/javascript" src="vendor/moment-duration-format.js"></script>
+  <script src="vendor/plyr-3.5.10.js"></script>
+  <link rel="stylesheet" href="vendor/plyr-3.5.10.css" />
+  <link rel="stylesheet" href="vendor/ubuntu.css" />
+
+  <script type="text/javascript" src="script.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Remote Fest 🤟😎</h1>
+  <p>We watch a video of an outdoor concert <em>all together</em>, use this page to <em>sync up</em>!</p>
+  <p>Project the video on a big screen, use your headphones for maximum immersion, and get ready!</p>
+  <section id="infos">
+    <h1>Share your vibes with us!</h1>
+    <p>Let's shake it together in the background 💃🕺</p>
+    <a href="" id="videoconf"></a>
+  </section>
+  <h1>Current session</h1>
+  <section id="current">
+    <video id="player"></video>
+    <div id="infos-current"></div>
+  </section>
+  <h1>Next sessions</h1>
+  <div id="videos-next"></div>
+  <h1>Past sessions</h1>
+  <div id="videos-prev"></div>
+	<template id="video-tpl">
+   <section class="video">
+     <h1></h1>
+     <p class="description"></p>
+     <img class="yt thumb"/>
+     <a href="#" target="_blank" rel="noopener" class="yt link"></a>
+     <span class="countdown"></span>
+     <span class="when"></span>
+   </section>
+  </template>
+</body>
+</html>

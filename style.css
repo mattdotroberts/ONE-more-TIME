@@ -1,0 +1,104 @@
+body {
+  background-color: black;
+  color: white;
+  font-size: 2em;
+  font-family: Ubuntu; 
+}
+
+a, a:visited {
+  color: #6181b3;
+}
+
+em {
+  font-size: 1.2em;
+  font-weight: bold;
+  font-style: normal;
+}
+
+#infos {
+  display: inline-block;
+  padding: 1em;
+  background-color: white;
+  color: black;
+}
+
+#current {
+  display: flex;
+}
+
+#current .plyr {
+  width: 50%;
+}
+
+#current img.yt {
+  display: none;
+}
+
+.video { 
+  display: grid;
+  grid-template-areas: 
+    "thumb title      "
+    "thumb description"
+    "thumb when       "
+    "thumb countdown  "
+    "thumb link       ";
+  grid-template-columns: auto auto 1fr;
+  grid-template-rows: auto 1fr auto auto;
+  column-gap: 20px;
+  row-gap: 20px;
+  justify-items: start;
+}
+
+.video h1 {
+  grid-area: title;
+}
+
+.description {
+  grid-area: description;
+}
+
+.when {
+  grid-area: when;
+}
+
+.thumb {
+  grid-area: thumb;
+}
+
+.countdown {
+  grid-area: countdown;
+}
+
+.link {
+  grid-area: link;
+}
+
+.video {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #0c0c0c;
+}
+
+.elapsed {
+  font-size: 2em;
+}
+
+.description {
+  font-size: 0.8em;
+}
+
+.video img.yt {
+  height: 10em;
+}
+
+.video h1, .video p {
+  margin: 0;
+}
+
+#player {
+  height: 0;
+}
+
+#videos-prev, #videos-next {
+ opacity: 0.6;
+}
