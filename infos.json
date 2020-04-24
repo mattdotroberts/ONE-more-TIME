@@ -78,10 +78,16 @@
     "start": "2020-04-22T22:00:00+02:00",
     "duration": 5046
   }, {
-    "title": "Bob Sinclair @ Glitterbox",
+    "title": "Bob Sinclair @ Bungalows & Bears",
     "description": "Straight up DISCO",
     "youtube": "bGP_BfaVEhM",
     "start": "2020-04-25T23:00:00+02:00",
+    "duration": 4780
+  }, {
+    "title": "Black Madonna @ DQ",
+    "description": "Dropping big ol' hits",
+    "youtube": "LkRr3LuuCJM",
+    "start": "2020-04-26T00:00:00+02:00",
     "duration": 4780
   }],
   "videoconf": "https://us04web.zoom.us/j/6439335935"
